@@ -1,7 +1,7 @@
 # Hi there, I'm Alex
 
 
-## I'm a young Student, Developer and enthusiast!
+## I'm a young Student and Developer!
 
 - 📚 I’m currently learning everything
 - 🥅 2022 Goals: Learn more about web
