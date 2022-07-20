@@ -3,10 +3,13 @@
 
 ## I'm a young Student and Developer!
 
-- 📚 I’m currently learning everything
+- 🌍 I’m currently learning everything
+- 📚 Student at Computer-Science at Babes-Bolyai Uniersity
 - 🥅 2022 Goals: Learn more about web
 - 🏎️ Fun fact: I am also into cars
 - 👨‍💻 Currently working on an Admin Dashboard using HTML CSS JS
+
+!!This account is new as I had another one on gitlab proivided by the university, but I decided to quit on that one and start another one here.I am trying to bring some of my projects here, the ones that deserve a glance!!
 
 ### Connect with me:
 [![website](./img/twitter-light.svg)](https://twitter.com/FlexingFarcas68)
