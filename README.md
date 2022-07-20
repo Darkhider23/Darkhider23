@@ -10,7 +10,7 @@
 ### Connect with me:
 [![website](./img/twitter-light.svg)](https://twitter.com/FlexingFarcas68)
 &nbsp;
-[![website](./img/linkedin-light.svg)]https://www.linkedin.com/in/alex-farcas-860648214/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/alex-farcas-860648214/)
 &nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/alexpwwp/)
 
