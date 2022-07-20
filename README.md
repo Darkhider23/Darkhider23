@@ -6,6 +6,7 @@
 - 📚 I’m currently learning everything
 - 🥅 2022 Goals: Learn more about web
 - 🏎️ Fun fact: I am also into cars
+- 👨‍💻 Currently working on an Admin Dashboard using HTML CSS JS
 
 ### Connect with me:
 [![website](./img/twitter-light.svg)](https://twitter.com/FlexingFarcas68)
